@@ -32,4 +32,9 @@ public class CalculatorTest {
 		Calculator calculator = new Calculator();
 		calculator.divide(6, 0);
 	}
+
+
+
+
+	
 }
